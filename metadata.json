@@ -1,0 +1,6 @@
+{
+  "name": "CryptoVision AI",
+  "description": "Full-stack Bitcoin Price Prediction AI Web Application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
