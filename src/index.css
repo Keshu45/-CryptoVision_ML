@@ -55,6 +55,11 @@
   }
 }
 
+@layer utilities {
+  .pb-safe {
+    padding-bottom: max(env(safe-area-inset-bottom), 16px);
+  }
+}
 @layer components {
   .glass-card {
     @apply bg-white/60 dark:bg-zinc-900/60 backdrop-blur-xl border border-zinc-200 dark:border-zinc-700/40 rounded-2xl;

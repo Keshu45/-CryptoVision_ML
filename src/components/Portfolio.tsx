@@ -65,7 +65,7 @@ export function Portfolio() {
   };
 
   return (
-    <div className="flex-1 overflow-y-auto p-4 md:p-8">
+    <div className="flex-1 overflow-y-auto p-4 md:p-8 pb-24 md:pb-8">
       <div className="max-w-4xl mx-auto space-y-8">
         <header className="mb-8 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
           <div>
